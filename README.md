@@ -1,5 +1,5 @@
 
-# Weather -app ☀️🌧️
+# Weather now ☀️🌧️
 
 A simple React + Tailwind weather app using the Open-Meteo API.
 
